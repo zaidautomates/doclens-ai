@@ -12,7 +12,7 @@
   <b>AI-powered legal document analysis with intelligent risk detection, date extraction, and contextual Q&A</b>
 </p>
 
-![DocLens AI Screenshot](./screenshot.png)
+![DocLens AI Screenshot](./doclens-ai.png)
 
 ## ✨ Features
 
@@ -199,5 +199,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">
-  Built with ❤️ at DecodeLabs
+  Built with ❤️ by ZAID
 </p>
